@@ -1,6 +1,6 @@
+pear
 apple
-mango
-orange
 kiwi
-banana
-watermelon
+dragonfruit
+grapes
+mango
