@@ -1,0 +1,6 @@
+apple
+mango
+orange
+kiwi
+banana
+watermelon
